@@ -9,6 +9,7 @@ Este es un proyecto personal que estoy desarrollando para poner en práctica mis
 - **Backend**
   - Node.js
   - Express.js
+  - Insomnia
 - **Frontend** (próximamente)
   - HTML, CSS, JavaScript
   - Framework por definir
