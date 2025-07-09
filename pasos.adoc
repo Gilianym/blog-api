@@ -1,0 +1,7 @@
+1- Preparar el entorno, descargando el node.js.
+2- Instalar las dependencias de express.js.
+3- Generar el servidor en el puerto 3000.
+4- Crear ruta para obtener todos los blogs.
+5- Crear JSON en un fichero aparte.
+6- Definir la ruta para filtrar los artículos de según su ID. En caso de que no exista se muestra un error.
+7- Modificar los artículos.
